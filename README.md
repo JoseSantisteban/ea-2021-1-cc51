@@ -15,8 +15,7 @@ El fin de este trabajo es responder a las siguientes cuestiones mediante el aná
 * Santisteban Cerna, José Mauricio - u201922760
 
 ## Descripción del dataset
-Los datos a analizar y visualizar en el presente trabajo pertenecen al artículo ‘Hotel booking deman data sets’ [Conjuntos de datos de demanda de reserva de hotel] publicado por el Instituto Universitario de Lisboa, de autores a Nuno Antonio, Ana de Almeida y Luis Nunes, en Lisboa, Portugal 2018. Estos a su vez se obtuvieron de datos reales de dos hoteles: un resort y uno de ciudad, comprendiendo datos de reservaciones entre el 1 de julio de 2015 y 31 de agosto de 2017. El conjunto de datos reales sin alterar puede ser encontrado en el siguiente enlace: https://www.sciencedirect.com/science/article/pii/S2352340918315191
-
+Los datos a analizar y visualizar en el presente trabajo pertenecen al artículo ‘Hotel booking deman data sets’ [Conjuntos de datos de demanda de reserva de hotel] publicado por el Instituto Universitario de Lisboa, de autores a Nuno Antonio, Ana de Almeida y Luis Nunes, en Lisboa, Portugal 2018. Estos a su vez se obtuvieron de datos reales de dos hoteles: un resort y uno de ciudad, comprendiendo datos de reservaciones entre el 1 de julio de 2015 y 31 de agosto de 2017. El conjunto de datos reales sin alterar puede ser encontrado en el siguiente enlace: https://doi.org/10.1016/j.dib.2018.11.126
 ## Conclusiones
 Después de analizar las respuestas a las preguntas iniciales se determinaron las siguientes conclusiones preliminares:
 * Las personas prefieren el tipo de hotel de la ciudad.
